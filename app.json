@@ -23,7 +23,34 @@
       "description": "Bot Token, elegram Bot Token that you got from BotFather."
     },    
     "API_HASH": {
-      "description": "Api Has, You can get this from https://my.telegram.org."    
+      "description": "Api Has, You can get this from https://my.telegram.org." 
+    },
+    "API_ID": {
+      "description": "Api ID, Telegram Bot Token that you got from BotFather."
+    }, 
+    "AUTH_CHATS": {
+      "description": "Chat ID Channel, Group ID (with Topic ID), Separated by space"
+    }, 
+    "AUTO_BYPASS": {
+      "description": "Command bypass, Change between Command Mode or Auto Bypass Mode. Default is False."
+    }, 
+    "OWNER_ID": {
+      "description": "Owner ID, Telegram User ID (not username) of the Owner of the bot."
+    }, 
+    "HUBDRIVE_CRYPT": {
+      "description": "Hubdrive Google Drive, HubDrive Crypt (Optional), It works with or without Cookie, Get from Cookie Editor Extension."
+    }, 
+    "DRIVEFIRE_CRYPT": {
+      "description": "Drivefire Google Drive, DriveFire Crypt, Get from Cookie Editor Extension."
+    }, 
+    "KATDRIVE_CRYPT": {
+      "description": "Katdrive Google Drive, KatDrive Crypt (Optional), It works with or without Cookie, Get from Cookie Editor Extension."
+    }, 
+    "DIRECT_INDEX": {
+      "description": "Direct Index Link, Direct Fast Download GDrive Links."
+    },
+    "TERA_COOKIE": {
+      "description": "Terabox Get the Terabox ndus Cookie from Cookie Editor Extension."    
     }
   }
 }
