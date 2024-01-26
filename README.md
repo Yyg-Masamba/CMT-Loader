@@ -24,7 +24,7 @@ A Simple **Shell Script** to make your Repo Deployable to Heroku.com (via CLI) &
 > Make sure git is Installed in your system or quick run `apt-get install git pip curl -y`
 
 ```shell
-git clone https://github.com/SilentDemonSD/HK-Loader && cd HK-Loader
+git clone https://github.com/Yyg-Masamba/CMT-Loader && cd CMT-Loader
 ```
 
 **Step 2 :** Now Install Heroku in your Sytem or checkout Official Heroku Deploy Docs, or Download via `apt-get` or `npm`
