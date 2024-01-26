@@ -109,6 +109,9 @@ git push heroku main -f
 
 ---
 
-## ***References***
-- _Concept & Made by SilentDemonSD_
-- _Helped via git Docs & AriaAI_
+## ***Heroku Deploy***
+<a href="https://heroku.com/deploy?template=https://github.com/Yyg-Masamba/CMT-Loader">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
