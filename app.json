@@ -18,6 +18,12 @@
     },
     "START_CMD": {
       "description": "Trigger Command for your Bot to Run."
+    },
+    "BOT_TOKEN": {
+      "description": "Bot Token, elegram Bot Token that you got from BotFather."
+    },    
+    "API_HASH": {
+      "description": "Api Has, You can get this from https://my.telegram.org."    
     }
   }
 }
