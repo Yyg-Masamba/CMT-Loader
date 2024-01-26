@@ -27,8 +27,7 @@ if [ -z "$start_cmd" ]; then
 fi
 
 echo "
-█░█ █▄▀ ▄▄ █░░ █▀█ ▄▀█ █▀▄ █▀▀ █▀█
-█▀█ █░█ ░░ █▄▄ █▄█ █▀█ █▄▀ ██▄ █▀▄
+🅿🅴🅰 🅼🅰🆂🅰🅼🅱🅰
                                  v1.0.0
-Repo : https://github.com/SilentDemonSD/HK-Loader By SilentDemonSD"
+Repo : https://github.com/Yyg-Masamba/CMT-Loader/ By Pea Masamba"
 eval "$start_cmd"
