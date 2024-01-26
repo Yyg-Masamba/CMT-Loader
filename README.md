@@ -102,11 +102,9 @@ git push heroku main -f
   ```diff
   build:
     docker:
-  --    web: Dockerfile
-  ++    worker: Dockerfile
+  worker: Dockerfile
   run:
-  --  web: chmod +x hk_deploy.sh && ./hk_deploy.sh
-  ++  worker: chmod +x hk_deploy.sh && ./hk_deploy.sh
+  worker: chmod +x hk_deploy.sh && ./hk_deploy.sh
   ```
 
 ---
