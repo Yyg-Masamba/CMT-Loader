@@ -4,7 +4,8 @@
   "keywords": [
     "plugin",
     "loader",
-    "heroku"
+    "heroku",
+    "python"
   ],
   "website": "https://www.comelmuewa84.eu.org",
   "repository": "https://github.com/Yyg-Masamba/CMT-Loader",
@@ -17,7 +18,7 @@
       "description": "Repo Branch, you want to deploy with your REPO_URL."
     },
     "START_CMD": {
-      "description": "Trigger Command for your Bot to Run."    
+      "description": "Trigger Command for your Bot to Run."
     }
   }
 }
