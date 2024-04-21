@@ -2,7 +2,7 @@ services:
   - type: web
     runtime: python
     name: pytele-loader
-    repo: https://github.com/SilentDemonSD/pyTele-Loader
+    repo: https://github.com/Yyg-Masamba/CMT-Loader
     branch: main
     region: frankfurt
     plan: free
