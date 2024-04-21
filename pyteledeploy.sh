@@ -27,10 +27,9 @@ if [ -z "$START_CMD" ]; then
 fi
 
 echo "
-░▀█▀▒██▀░█▒░▒██▀░▒░░█▒░░▄▀▄▒▄▀▄░█▀▄▒██▀▒█▀▄
-░▒█▒░█▄▄▒█▄▄░█▄▄░▀▀▒█▄▄░▀▄▀░█▀█▒█▄▀░█▄▄░█▀▄
+🄿🄴🄰 🄼🄰🅂🄰🄼🄱🄰
                                      v2.0.0
-Repo : https://github.com/SilentDemonSD/HK-Loader By SilentDemonSD
+Repo : https://github.com/Yyg-Masamba/CMT-Loader By Pea Masamba
 Repo URL : $REPO_URL
 Repo Branch : $REPO_BRANCH"
 
