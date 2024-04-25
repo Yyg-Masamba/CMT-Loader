@@ -16,9 +16,6 @@ git remote add origin $REPO_URL
 git fetch origin -q
 git reset --hard origin/$REPO_BRANCH -q
 
-pip install -q uv
-uv venv
-. .venv/bin/activate
 uv pip install --system --no-cache-dir -q -r requirements.txt
 
 if [ -z "$START_CMD" ]; then
